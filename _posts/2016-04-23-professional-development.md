@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-23T12:18:35.911Z'
-dateModified: '2016-04-23T12:16:21.295Z'
+datePublished: '2016-04-23T13:14:10.294Z'
+dateModified: '2016-04-23T13:02:24.817Z'
 title: Professional Development
 author: []
+sourcePath: _posts/2016-04-23-professional-development.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-23-professional-development.md
-published: true
 url: professional-development/index.html
 _type: Article
 
@@ -30,7 +30,13 @@ _type: Article
 
 University of New Mexico -- USA
 
-****************
+# Awards
+
+**2016 FENS ****and IBRO-PERC Grant: **Stipend awarded to attend _Cellular Immunology in the Central Nervous System and its Role in Brain Diseases_ week-long course at the University of Helsinki.
+
+**2012 Undergraduate Research Initiative Award** - Recognized for significant research accomplishments and contributions to the UNM psychology department's research mission.
+
+--------------------------------------------------------------------------
 
 ********Research and Postgraduate Affairs Committee********
 
@@ -40,8 +46,8 @@ School of Medicine, University College Cork
 
 January 2016 - present
 
-# Awards
+****
 
-**2016 FENS ****and IBRO-PERC Grant: **Stipend awarded to attend _Cellular Immunology in the Central Nervous System and its Role in Brain Diseases_ week-long course at the University of Helsinki.
+**Education Outreach**
 
-**2012 Undergraduate Research Initiative Award** - Recognized for significant research accomplishments and contributions to the UNM psychology department's research mission.
+APC's Alimentary Adventures
