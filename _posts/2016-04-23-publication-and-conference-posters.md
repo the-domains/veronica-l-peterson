@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-23T14:40:40.321Z'
-dateModified: '2016-04-23T14:40:38.798Z'
+datePublished: '2016-04-23T15:04:50.621Z'
+dateModified: '2016-04-23T14:53:50.991Z'
 title: 'Publication & Conference Posters'
 author: []
 sourcePath: _posts/2016-04-23-publication-and-conference-posters.md
