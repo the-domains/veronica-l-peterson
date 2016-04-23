@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-23T14:16:14.265Z'
-dateModified: '2016-04-23T14:15:37.025Z'
+datePublished: '2016-04-23T14:19:48.728Z'
+dateModified: '2016-04-23T14:16:17.263Z'
 title: 'Publication & Conference Posters'
 author: []
 sourcePath: _posts/2016-04-23-publication-and-conference-posters.md
