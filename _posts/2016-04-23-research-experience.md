@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Prof. John Cryan & Dr. Ted Dinan Laboratory of Neurogastroenterology'
-datePublished: '2016-04-23T12:30:10.482Z'
-dateModified: '2016-04-23T12:30:08.622Z'
+datePublished: '2016-04-23T13:13:35.306Z'
+dateModified: '2016-04-23T12:50:38.919Z'
 title: Research Experience
 author: []
+sourcePath: _posts/2016-04-23-research-experience.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-23-research-experience.md
-published: true
 url: research-experience/index.html
 _type: Article
 
@@ -34,7 +34,7 @@ Position: PhD Researcher, January 2015 - Present
 
 **Experience: **Behavioral Neuroscience, Genetic analysis, Statistical analysis, LAST Ireland Animal Training, PCR, Cytokine Stimulation, Molecular biological techniques, Scientific writing.
 
-**-------------------------------------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------**
 
 **Dr. Derek Hamilton's Behavioral Neuroscience Laboratory**
 
@@ -46,6 +46,5 @@ Position: Student Researcher, August 2011- May 2014
 
 **Experience:** Microscopy, Histochemistry, Molecular biological techniques (catFISH)
 
-**Observed**: LTP, LTD, and patch-clamping electrophysiology, MRI data
-analysis.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d62a072-4ee1-4239-801b-affcfc401153.jpg)
+**Observed**: LTP, LTD, and patch-clamping electrophysiology, MRI data analysis.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fc56822-b540-43eb-b810-fda54891ed97.jpg)
