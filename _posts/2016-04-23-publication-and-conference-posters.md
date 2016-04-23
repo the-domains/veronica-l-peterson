@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-23T14:19:48.728Z'
-dateModified: '2016-04-23T14:16:17.263Z'
+datePublished: '2016-04-23T14:21:34.674Z'
+dateModified: '2016-04-23T14:21:13.943Z'
 title: 'Publication & Conference Posters'
 author: []
 sourcePath: _posts/2016-04-23-publication-and-conference-posters.md
@@ -31,6 +31,8 @@ _type: Article
 * **Peterson, V. L.,** McCool, B. A., & Hamilton, D. A. (2015). _Effects of ethanol exposure and withdrawal on dendritic morphology and spine density in the nucleus accumbens core and shell._ Brain research, 1594, 125-135\.
 
 ****
+
+**----------------------------------------------------------------------------**
 
 **Posters:**
 
