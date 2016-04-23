@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Contact: veronica.peterson@ucc.ie or on Twitter'
-datePublished: '2016-04-23T14:01:44.272Z'
-dateModified: '2016-04-23T13:59:12.310Z'
+datePublished: '2016-04-23T14:03:35.486Z'
+dateModified: '2016-04-23T14:01:50.582Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-contact-veronicapetersonuccie-or-on-twitter.md
