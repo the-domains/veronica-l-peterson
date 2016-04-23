@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Prof. John Cryan & Dr. Ted Dinan Laboratory of Neurogastroenterology'
-datePublished: '2016-04-23T13:32:28.359Z'
-dateModified: '2016-04-23T13:32:04.133Z'
+datePublished: '2016-04-23T13:57:55.886Z'
+dateModified: '2016-04-23T13:57:24.480Z'
 title: Research Experience
 author: []
 sourcePath: _posts/2016-04-23-research-experience.md
@@ -26,22 +26,21 @@ _type: Article
 
 **Prof. John Cryan & Dr. Ted Dinan Laboratory of Neurogastroenterology**
 
-Department of Neuroscience & Anatomy and APC Microbiome Institute, University College Cork, Ireland
+PhD Researcher, January 2015 - Present
 
-Position: PhD Researcher, January 2015 - Present
+Department of Neuroscience & Anatomy and APC Microbiome Institute, University College Cork, Ireland
 
 **Research Project**: Microbiota-Gut-Brain Axis and its role in stress response, addiction, the reward circuit and affective disorders.
 
 **Experience: **Behavioral Neuroscience, Genetic analysis, Statistical analysis, LAST Ireland Animal Training, PCR, Cytokine Stimulation, Molecular biological techniques, Scientific writing.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fc56822-b540-43eb-b810-fda54891ed97.jpg)
 
 **----------------------------------------------------------------------------**
 
 **Dr. Derek Hamilton's Behavioral Neuroscience Laboratory**
 
-Department of Psychology, University of New Mexico, USA
+Student Researcher, August 2011- May 2014
 
-Position: Student Researcher, August 2011- May 2014
+Department of Psychology, University of New Mexico, USA
 
 **Research Project:** Effects of alcohol withdrawal on MSN morphology in the Nucleus Accumbens. 
 
