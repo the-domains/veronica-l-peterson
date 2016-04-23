@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-23T14:17:43.169Z'
-dateModified: '2016-04-23T14:17:35.260Z'
+datePublished: '2016-04-23T14:44:35.036Z'
+dateModified: '2016-04-23T14:34:02.019Z'
 title: Coursework
 author: []
 sourcePath: _posts/2016-04-23-coursework.md
