@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-23T13:23:03.917Z'
-dateModified: '2016-04-23T13:22:57.722Z'
+datePublished: '2016-04-23T14:13:35.658Z'
+dateModified: '2016-04-23T14:13:35.239Z'
 title: Professional Development
 author: []
 sourcePath: _posts/2016-04-23-professional-development.md
