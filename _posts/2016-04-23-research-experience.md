@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Prof. John Cryan & Dr. Ted Dinan Laboratory of Neurogastroenterology'
-datePublished: '2016-04-23T13:13:35.306Z'
-dateModified: '2016-04-23T12:50:38.919Z'
+datePublished: '2016-04-23T13:18:53.454Z'
+dateModified: '2016-04-23T13:17:08.004Z'
 title: Research Experience
 author: []
 sourcePath: _posts/2016-04-23-research-experience.md
@@ -33,6 +33,7 @@ Position: PhD Researcher, January 2015 - Present
 **Research Project**: Microbiota-Gut-Brain Axis and its role in stress response, addiction, the reward circuit and affective disorders.
 
 **Experience: **Behavioral Neuroscience, Genetic analysis, Statistical analysis, LAST Ireland Animal Training, PCR, Cytokine Stimulation, Molecular biological techniques, Scientific writing.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fc56822-b540-43eb-b810-fda54891ed97.jpg)
 
 **----------------------------------------------------------------------------**
 
@@ -47,4 +48,3 @@ Position: Student Researcher, August 2011- May 2014
 **Experience:** Microscopy, Histochemistry, Molecular biological techniques (catFISH)
 
 **Observed**: LTP, LTD, and patch-clamping electrophysiology, MRI data analysis.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fc56822-b540-43eb-b810-fda54891ed97.jpg)
