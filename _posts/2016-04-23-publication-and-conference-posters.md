@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-23T15:04:50.621Z'
-dateModified: '2016-04-23T14:53:50.991Z'
+datePublished: '2016-04-23T18:32:54.631Z'
+dateModified: '2016-04-23T18:32:25.625Z'
 title: 'Publication & Conference Posters'
 author: []
 sourcePath: _posts/2016-04-23-publication-and-conference-posters.md
@@ -26,7 +26,7 @@ _type: Article
 
 # Publication & Conference Posters
 
-* **Peterson, V. L.,** McCool, B. A., & Hamilton, D. A. (2015). _Effects of ethanol exposure and withdrawal on dendritic morphology and spine density in the nucleus accumbens core and shell._ Brain Research, 1594, 125-135\.
+* **Peterson, V. L.,** McCool, B. A., & Hamilton, D. A. (2015). _Effects of ethanol exposure and withdrawal on dendritic morphology and spine density in the nucleus accumbens core and shell._ Brain Research, 1594, 125-135\. doi:10.1016/j.brainres.2014.10.036
 
 * Gururajan, A., Peterson, V. L., Burokas, A., Moloney, G., Dinan, T., Cryan, J. F. (2016). _Sweating the Small Stuff: Chronic Psychosocial Social Stress Regulates Selective MicroRNA Expression in the Hippocampus of the Mouse._ Presented by Anand Gururajan at the 2016 ECNP Workshop for Junior Scientists.
 
