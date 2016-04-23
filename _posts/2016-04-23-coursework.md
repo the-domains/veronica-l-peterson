@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-23T14:11:36.373Z'
-dateModified: '2016-04-23T14:09:45.131Z'
+datePublished: '2016-04-23T14:17:43.169Z'
+dateModified: '2016-04-23T14:17:35.260Z'
 title: Coursework
 author: []
 sourcePath: _posts/2016-04-23-coursework.md
