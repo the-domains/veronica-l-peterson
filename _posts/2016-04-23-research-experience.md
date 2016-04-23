@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Prof. John Cryan & Dr. Ted Dinan Laboratory of Neurogastroenterology'
-datePublished: '2016-04-23T13:57:55.886Z'
-dateModified: '2016-04-23T13:57:24.480Z'
+datePublished: '2016-04-23T15:04:35.799Z'
+dateModified: '2016-04-23T14:18:50.376Z'
 title: Research Experience
 author: []
 sourcePath: _posts/2016-04-23-research-experience.md
