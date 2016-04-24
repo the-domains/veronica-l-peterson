@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T08:31:30.673Z'
-dateModified: '2016-04-24T08:26:53.078Z'
+datePublished: '2016-04-24T08:32:04.142Z'
+dateModified: '2016-04-24T08:31:34.019Z'
 title: Professional Development
 author: []
 sourcePath: _posts/2016-04-23-professional-development.md
@@ -43,7 +43,7 @@ _type: Article
 In addition to my academic research, work experience includes computer IT and business.
 
 * **[Bless Your Body][0]- Owner** | 2007 - 2014 | Import and export of aromatics from the natural world. The ecommerce business, built in ZenCart, helped support me through undergraduate school. It is still a passion of mine. 
-* **Abitha's Herbary - Owner **| 2006 - 2009 | Apothecary and wellness shop. Acquired after leaving college to become an entrepreneur. Realize I loved science too much and returned to academia. 
+* **Abitha's Herbary - Owner **| 2006 - 2009 | Apothecary and wellness shop. Acquired after leaving college to become an entrepreneur. Realized I loved science too much and returned to academia. 
 * **Computer IT **| 2000 - presentish | Father was a big proponent of my IT skills; learned to program in HTML and build computers when I was 11 years old. These skills stuck and followed me throughout my life. Early jobs included webdesign and maintenance for my high school in Los Alamos, a network administrator internship at Los Alamos National Labs, and a summer internship at WebCriteria in Portland, OR.
 
 [0]: http://thegrid.ai/blessyourbody
