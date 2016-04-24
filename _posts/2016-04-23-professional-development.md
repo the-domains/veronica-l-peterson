@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T09:04:07.742Z'
-dateModified: '2016-04-24T09:03:52.286Z'
+datePublished: '2016-04-24T09:12:10.618Z'
+dateModified: '2016-04-24T09:12:10.115Z'
 title: Professional Development
 author: []
 sourcePath: _posts/2016-04-23-professional-development.md
@@ -38,13 +38,13 @@ _type: Article
 
 **2012 Undergraduate Research Initiative Award** - Recognized for significant research accomplishments and contributions to the UNM psychology department's research mission.
 
-## Work Experience
+## Additional Experience
 
-In addition to my academic research, work experience includes computer IT and business.
+In addition to my academic research, work experience includes computer IT, holistic health, and business.
 
 **[Bless Your Body][0] - Owner** | 2007 - 2014 | Import and export of aromatics from the natural world. The ecommerce business, built in ZenCart, helped support me through undergraduate school. It is still a passion of mine. 
 
-**Abitha's Herbary - Owner **| 2006 - 2009 | Apothecary and wellness shop. Acquired after leaving college to become an entrepreneur. As a nurse with a biochemistry background, my mother seeded the desire to help people through medicine. All the same, I realized I missed science too much and returned to academia.
+**Abitha's Herbary - Owner **| 2006 - 2009 | Apothecary and wellness shop. Acquired after leaving college to become an entrepreneur. As a nurse with a biochemistry background, my mother seeded my desire to help people through medicine. All the same, I realized I missed science too much and returned to academia.
 
 **Computer IT **| 2000 - presentish | Father was a big proponent of my IT skills; learned to program in HTML and build computers when I was 11 years old. These skills stuck and followed me throughout my life. Early jobs included webdesign and maintenance for my high school in Los Alamos, a network administrator internship at Los Alamos National Labs, and a summer internship at WebCriteria in Portland, OR.
 
