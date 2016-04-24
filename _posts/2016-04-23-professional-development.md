@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T09:12:10.618Z'
-dateModified: '2016-04-24T09:12:10.115Z'
+datePublished: '2016-04-24T09:15:16.961Z'
+dateModified: '2016-04-24T09:15:10.761Z'
 title: Professional Development
 author: []
 sourcePath: _posts/2016-04-23-professional-development.md
@@ -46,6 +46,6 @@ In addition to my academic research, work experience includes computer IT, holis
 
 **Abitha's Herbary - Owner **| 2006 - 2009 | Apothecary and wellness shop. Acquired after leaving college to become an entrepreneur. As a nurse with a biochemistry background, my mother seeded my desire to help people through medicine. All the same, I realized I missed science too much and returned to academia.
 
-**Computer IT **| 2000 - presentish | Father was a big proponent of my IT skills; learned to program in HTML and build computers when I was 11 years old. These skills stuck and followed me throughout my life. Early jobs included webdesign and maintenance for my high school in Los Alamos, a network administrator internship at Los Alamos National Labs, and a summer internship at WebCriteria in Portland, OR.
+**Computer IT **| 2000 - presentish | My father was a big proponent of my IT skills; learned to program in HTML and build computers when I was 11 years old. These skills stuck and followed me throughout my life. Early jobs included webdesign and maintenance for my high school in Los Alamos, a network administrator internship at Los Alamos National Labs, and a summer internship at WebCriteria in Portland, OR.
 
 [0]: http://thegrid.ai/blessyourbody
